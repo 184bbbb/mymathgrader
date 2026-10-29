@@ -1,0 +1,22 @@
+{
+  "name": "mymathgrader",
+  "main": "_worker.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": ".",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "<你的 D1 数据库名称>",
+      "database_id": "<你的 D1 数据库 ID>"
+    }
+  ],
+  "kv_namespaces": [
+    {
+      "binding": "MEDIA_KV",
+      "id": "<你的 KV 命名空间 ID>"
+    }
+  ]
+}

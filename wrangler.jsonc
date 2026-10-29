@@ -9,14 +9,14 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "<你的 D1 数据库名称>",
-      "database_id": "<你的 D1 数据库 ID>"
+      "database_name": "grader-db",
+      "database_id": "703412a4-8355-4978-81f0-6ec67b95841a"
     }
   ],
   "kv_namespaces": [
     {
       "binding": "MEDIA_KV",
-      "id": "<你的 KV 命名空间 ID>"
+      "id": "6c7833acb75f42b586a0f268af651936"
     }
   ]
 }
